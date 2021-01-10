@@ -2,3 +2,13 @@ h1 {
   text-align: center;
   color: red;
 }
+img {
+  width: 700px;
+  display: block;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  border-radius: 20px;
+}
+.logForm {
+  text-align: center;
+}
